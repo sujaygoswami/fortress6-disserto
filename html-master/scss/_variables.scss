@@ -1,0 +1,55 @@
+:root {
+    // fonts
+    --primary-font-family: 'Poppins', sans-serif;
+    --primary-font-family-thin: 100;
+    --primary-font-family-extra-light: 200;
+    --primary-font-family-light: 300;
+    --primary-font-family-regular: 400;
+    --primary-font-family-medium: 500;
+    --primary-font-family-semi-bold: 600;
+    --primary-font-family-bold: 600;
+    --primary-font-family-extra-bold: 800;
+    --primary-font-family-black: 900;
+    --secondary-font-family: 'Expletus Sans', cursive;
+    --secondary-font-family-regular: 400;
+    --third-font-family: 'Lato', sans-serif;
+    --third-font-family-regular: 400;
+    --third-font-family-bold: 700;
+    --forth-font-family: 'Open Sans', sans-serif;
+    --forth-font-family-regular: 400;
+    // colors
+    --site-theme-primary-color: #6D1329;
+    --site-theme-primary-color-light: #BA0D38;
+    --site-grey-type-one: #efefef;
+    --site-grey-type-two: #f7f7f7;
+    --site-grey-type-three: #f3f3f3;
+    --site-grey-type-three: #E0E0E0;
+    --site-grey-type-seven: #f5f7f8;
+    --site-grey-type-eight: #E7E7E7;
+    --site-dark-grey: #1D2024;
+    --site-dark-grey-lighter: #575757;
+    --site-grey-type-four: #a5aab2;
+    --site-grey-type-five: #e0e0e0;
+    --site-grey-type-six: #A5AAB2;
+    --site-text-dark-color-type-one: #575757;
+    --site-text-dark-color-type-two: #1D2024;
+    --site-text-dark-color-type-three: #71757B;
+    --site-text-dark-color-type-four: #1E1D22;
+    --site-text-dark-color-type-five: #333333;
+    --site-text-dark-color-type-six: #838383;
+    --gradient-primary-color: #6d1329;
+    --gradient-secondary-color: #ba0d38;
+    --site-theme-cool-color: #006591;
+    --site-theme-cool-color-type-two: #4E66F7;
+}
+
+//grid
+$to-xxl-desktop: 1360px;
+$from-xxl-desktop: 1359px;
+$to-xxl-desktop-sm: 1360px;
+$from-small-height-device: 1024px;
+$default-gutter: 18px;
+$lg-gutter: 25px;
+$small-gutter: 10px;
+$site-xl: 1200px;
+$site-sm: 768px;

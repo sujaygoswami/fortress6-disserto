@@ -1,0 +1,134 @@
+@font-face {
+    font-family: 'Poppins';
+    src: url('../Fonts/Poppins-Bold.eot');
+    src: url('../Fonts/Poppins-Bold.eot?#iefix') format('embedded-opentype'), url('../Fonts/Poppins-Bold.woff2') format('woff2'), url('../Fonts/Poppins-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../Fonts/Poppins-ExtraBold.eot');
+    src: url('../Fonts/Poppins-ExtraBold.eot?#iefix') format('embedded-opentype'), url('../Fonts/Poppins-ExtraBold.woff2') format('woff2'), url('../Fonts/Poppins-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../Fonts/Poppins-Black.eot');
+    src: url('../Fonts/Poppins-Black.eot?#iefix') format('embedded-opentype'), url('../Fonts/Poppins-Black.woff2') format('woff2'), url('../Fonts/Poppins-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../Fonts/Poppins-ExtraLight.eot');
+    src: url('../Fonts/Poppins-ExtraLight.eot?#iefix') format('embedded-opentype'), url('../Fonts/Poppins-ExtraLight.woff2') format('woff2'), url('../Fonts/Poppins-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../Fonts/Poppins-Light.eot');
+    src: url('../Fonts/Poppins-Light.eot?#iefix') format('embedded-opentype'), url('../Fonts/Poppins-Light.woff2') format('woff2'), url('../Fonts/Poppins-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../Fonts/Poppins-Medium.eot');
+    src: url('../Fonts/Poppins-Medium.eot?#iefix') format('embedded-opentype'), url('../Fonts/Poppins-Medium.woff2') format('woff2'), url('../Fonts/Poppins-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../Fonts/Poppins-Regular.eot');
+    src: url('../Fonts/Poppins-Regular.eot?#iefix') format('embedded-opentype'), url('../Fonts/Poppins-Regular.woff2') format('woff2'), url('../Fonts/Poppins-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../Fonts/Poppins-SemiBold.eot');
+    src: url('../Fonts/Poppins-SemiBold.eot?#iefix') format('embedded-opentype'), url('../Fonts/Poppins-SemiBold.woff2') format('woff2'), url('../Fonts/Poppins-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../Fonts/Poppins-Thin.eot');
+    src: url('../Fonts/Poppins-Thin.eot?#iefix') format('embedded-opentype'), url('../Fonts/Poppins-Thin.woff2') format('woff2'), url('../Fonts/Poppins-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Expletus Sans';
+    src: url('../Fonts/ExpletusSans-Regular.eot');
+    src: url('../Fonts/ExpletusSans-Regular.eot?#iefix') format('embedded-opentype'), url('../Fonts/ExpletusSans-Regular.woff2') format('woff2'), url('../Fonts/ExpletusSans-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Expletus Sans';
+    src: url('../Fonts/ExpletusSans-Italic.eot');
+    src: url('../Fonts/ExpletusSans-Italic.eot?#iefix') format('embedded-opentype'), url('../Fonts/ExpletusSans-Italic.woff2') format('woff2'), url('../Fonts/ExpletusSans-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../Fonts/Lato-Bold.eot');
+    src: url('../Fonts/Lato-Bold.eot?#iefix') format('embedded-opentype'), url('../Fonts/Lato-Bold.woff2') format('woff2'), url('../Fonts/Lato-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../Fonts/Lato-Regular.eot');
+    src: url('../Fonts/Lato-Regular.eot?#iefix') format('embedded-opentype'), url('../Fonts/Lato-Regular.woff2') format('woff2'), url('../Fonts/Lato-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../Fonts/OpenSans-Italic.eot');
+    src: url('../Fonts/OpenSans-Italic.eot?#iefix') format('embedded-opentype'), url('../Fonts/OpenSans-Italic.woff2') format('woff2'), url('../Fonts/OpenSans-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../Fonts/OpenSans-Regular.eot');
+    src: url('../Fonts/OpenSans-Regular.eot?#iefix') format('embedded-opentype'), url('../Fonts/OpenSans-Regular.woff2') format('woff2'), url('../Fonts/OpenSans-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
